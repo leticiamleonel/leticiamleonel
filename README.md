@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202736&height=160&section=header&text=Welcome!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202736&height=160&section=header&text=Bem Vindo (a)!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 ## 🖖 Sobre mim
 Olá! Meu nome é Letícia Moreira Leonel, tenho 23 anos e estou atualmente buscando aprimorar meu conhecimento e desenvolver minhas habilidades na área de Tecnologia da Informação. Sou discente do curso de Engenharia de Computação no IFMG campus Bambuí, onde tenho tido a oportunidade de mergulhar no mundo da programação.
