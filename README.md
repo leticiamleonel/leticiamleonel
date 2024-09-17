@@ -8,8 +8,6 @@ Meu nome é Letícia Leonel e tenho 24 anos. Sou discente do curso de Engenharia
   <img align="center" alt="Html"         height="30" width="40" src="https://img.icons8.com/color/512/html-5.png">
   <img align="center" alt="css"         height="30" width="40" src="https://img.icons8.com/color/512/css3.png">
   <img align="center" alt="Javascript"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg">
-  <img align="center" alt="React"height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png"> 
-  <img align="center" alt="Typescript" height="30" width="40" src="https://img.icons8.com/fluency/344/typescript.png">
   <img align="center" alt="Cplusplus"   height="30" width="40" src="https://img.icons8.com/color/512/c-plus-plus-logo.png">
   <img align="center" alt="Python"   height="30" width="40" src="https://img.icons8.com/color/48/python--v1.png" ">
   
