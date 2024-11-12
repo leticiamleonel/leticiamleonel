@@ -2,17 +2,6 @@
 Meu nome é Letícia Leonel e tenho 24 anos. Sou discente do curso de Engenharia de Computação no IFMG - Campus Bambuí, onde estou tendo a oportunidade de mergulhar no mundo da tecnologia. Minhas paixões se concentram em três áreas específicas: Front-End Development, UX/UI Design e Design Web. Tenho trabalhado para aprimorar minha compreensão e habilidades nessas áreas. Estou em desenvolvimento profissional e buscando novas oportunidades para contribuir para projetos que integrem tecnologia e design de maneira inovadora. Minha determinação e sede de aprendizado são direcionadas para alcançar resultados de alta qualidade e impulsionar a excelência em todos os projetos em que me envolvo.
 <br>
 
-## ⚡ Tecnologias & Skills
-<div align="center">
- 
-  <img align="center" alt="Html"         height="30" width="40" src="https://img.icons8.com/color/512/html-5.png">
-  <img align="center" alt="css"         height="30" width="40" src="https://img.icons8.com/color/512/css3.png">
-  <img align="center" alt="Javascript"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg">
-  <img align="center" alt="Cplusplus"   height="30" width="40" src="https://img.icons8.com/color/512/c-plus-plus-logo.png">
-  <img align="center" alt="Python"   height="30" width="40" src="https://img.icons8.com/color/48/python--v1.png" ">
-  
-</div>
-
  <br>
  
 - 🌱 Sou estudante de Engenharia de Computação no IFMG - Campus Bambuí.
